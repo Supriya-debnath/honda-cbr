@@ -1,4 +1,24 @@
-
+/* header section  */
+.header-bg-color{
+  background-color: #264653;
+}
+.button-btn-color{
+  color: #E76F51;
+}
+/* hero section  */
 .gray-img img {
     filter: grayscale(100%);
   }
+  .text-color{
+    color: #E76F51;
+  }
+  .button-border-color{
+    border-color: #E76F51;
+  }
+ .honda-btn-read-more{
+   color: white;
+   background: #E76F51;
+   padding: .375rem .75rem;
+   border: none;
+   border-radius: 5px;
+ }
